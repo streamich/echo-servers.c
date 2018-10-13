@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "libsys": "^2.2.2",
+        "libjs": "^0.3.0"
+    }
+}
